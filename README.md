@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Shrivastava
-- 👀 I’m interested in Data Science, ML, AI, and Web Development
+- 👀 I’m interested in Data Science, ML, AI, Web Development, App Development
 - 🌱 I’m currently learning Python and Data Science Tools
 - 💞️ I’m looking to collaborate on Innovative Projects
 - 📫 Email - abhishekshri16@gmail.com
